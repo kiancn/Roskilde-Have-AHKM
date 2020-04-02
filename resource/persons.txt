@@ -1,0 +1,247 @@
+1,Sandra Madsen,14,2,1962,Fuglehøjen,23,2260,Leder,K
+2,Emily Thomsen,4,3,1979,Færgevej,188,8214,Medarbejder,K
+3,Rasmus Christensen,17,10,1991,Flækken,311,5336,Medarbejder,K
+4,Liv Jensen,9,1,1976,Karine Krumpen,234,7199,Medarbejder,M
+5,Batzorig Rasmussen,22,9,1963,Flækken,99,9640,Medarbejder,K
+6,Alberte Kristensen,27,7,1987,Bellahøjvænget,278,1846,Medarbejder,K
+7,Thomas Thomsen,2,11,1972,Flækken,114,1350,Medarbejder,M
+8,Isabella Petersen,6,9,1981,Ellipsehaven,28,7343,Medarbejder,K
+9,Batsaikhan Jensen,9,0,1993,Dorthe Lottrups Lund,55,6195,Medarbejder,K
+10,Marie Nielsen,27,0,1981,Peter Panums Vej,260,3363,Medarbejder,M
+11,Batuhan Nielsen,19,0,1987,Ellipsehaven,57,4087,Medarbejder,K
+12,Maria Madsen,8,4,1973,Flækken,325,2547,Medarbejder,K
+13,Altan Madsen,23,1,1989,Karine Krumpen,48,5364,Medarbejder,M
+64,Andrea Petersen,5,7,2018,Degns Hauge,6,9718,Venteliste,K
+65,Batzorig Thomsen,23,1,2016,Peter Panums Vej,162,7119,Venteliste,K
+66,Olivia Hansen,17,1,2019,Nørrestrands Alle,72,1594,Venteliste,M
+67,Lars Pedersen,12,3,2018,Færgevej,67,5177,Venteliste,K
+68,Emma Jensen,5,3,2017,Kirsten Munks Dal,151,7206,Venteliste,K
+69,Niels Kristensen,15,0,2017,Klaruphave,223,9422,Venteliste,M
+70,Lily Larsen,7,0,2018,Ole Lund Kirkegaards Allé,246,7785,Venteliste,K
+71,Nergüi Rasmussen,25,11,2017,Søgård Alle,207,8754,Venteliste,K
+72,Kirsten Olsen,24,11,2017,Flækken,175,8105,Venteliste,M
+73,Enkhtuya Nielsen,15,10,2016,Klaruphave,129,6540,Venteliste,K
+74,Laura Jensen,12,0,2017,Ellipsehaven,30,3648,Venteliste,K
+75,Hans Pedersen,15,4,2016,Bellahøjvænget,1,3978,Venteliste,M
+76,Asta Madsen,5,3,2017,Humle Hauge,212,8281,Venteliste,K
+77,Narantsetseg Petersen,23,4,2018,Søgård Alle,162,1201,Venteliste,K
+78,Kirsten Sørensen,9,7,2018,Flækken,225,2932,Venteliste,M
+79,Chime Kristensen,7,0,2018,Nørrestrands Alle,177,2653,Venteliste,K
+80,Asta Jensen,11,8,2019,Dorthe Lottrups Lund,131,7764,Venteliste,K
+81,Ole Andersen,2,8,2017,Degns Hauge,158,4200,Venteliste,M
+82,Pia Kristensen,11,9,2019,Dorthe Lottrups Lund,64,3371,Venteliste,K
+83,Otgonbayar Nielsen,8,10,2016,Flækken,229,2510,Venteliste,K
+84,Caroline Nielsen,0,8,2019,Mediebyen,25,2457,Venteliste,M
+85,Gantulga Petersen,8,1,2019,Peter Panums Vej,7,4175,Venteliste,K
+86,Victoria Olsen,21,5,2019,Færgevej,127,6529,Venteliste,K
+87,Batsaikhan Nielsen,26,7,2018,Nørrestrands Alle,336,3100,Venteliste,M
+88,Anna Poulsen,21,6,2016,Hedvig Billes Top,92,5099,Venteliste,K
+89,Jens Jørgensen,6,1,2018,Humle Hauge,247,2632,Venteliste,K
+90,Astrid Petersen,28,3,2017,Ole Lund Kirkegaards Allé,223,3877,Venteliste,M
+91,Bat Erdene Christiansen,4,7,2016,Hedvig Billes Top,281,5950,Venteliste,K
+92,Josefine Sørensen,0,3,2016,Degns Hauge,266,5480,Venteliste,K
+93,Jørgen Petersen,15,7,2017,Peter Panums Vej,4,6213,Venteliste,M
+94,Clara Sørensen,2,1,2017,Seglen,84,1138,Venteliste,K
+95,Monkh Erdene Pedersen,29,10,2017,Karine Krumpen,175,7954,Venteliste,K
+96,Emilie Pedersen,17,1,2017,Seglen,273,4902,Venteliste,M
+97,Altantsetseg Larsen,23,0,2018,Bellahøjvænget,145,3231,Venteliste,K
+98,Bente Christensen,29,10,2018,Mediebyen,149,8866,Venteliste,K
+99,Enkhtuya Jørgensen,19,3,2017,Hedvig Billes Top,232,6031,Venteliste,M
+100,Astrid Hansen,14,6,2018,Hedvig Billes Top,116,7884,Venteliste,K
+101,Ganbaatar Olsen,5,5,2017,Seglen,26,5434,Venteliste,K
+102,Aya Olsen,20,3,2019,Humle Hauge,40,8292,Venteliste,M
+103,Arban Rasmussen,2,10,2017,Søgård Alle,293,4020,Venteliste,K
+104,Sara Hansen,29,2,2000,Humle Hauge,298,7135,Voksen,K
+105,Per Hansen,28,6,1984,Mediebyen,131,2038,Voksen,K
+106,Astrid Andersen,7,2,1988,Søgård Alle,197,9403,Voksen,M
+107,Anders Hansen,26,0,2001,Færgevej,116,3828,Voksen,K
+108,Inge Andersen,5,1,1995,Seglen,90,6759,Voksen,K
+109,Batzorig Sørensen,16,1,1975,Humle Hauge,14,5994,Voksen,M
+110,Lene Jensen,22,10,2000,Flovt Bygade,187,3284,Voksen,K
+111,Altansarnai Rasmussen,9,10,1990,Færgevej,95,7833,Voksen,K
+112,Lene Johansen,12,6,1956,Hedvig Billes Top,319,2717,Voksen,M
+113,Lkhagvasüren Hansen,18,5,1957,Humle Hauge,86,3518,Voksen,K
+114,Anne Larsen,15,9,1971,Peter Panums Vej,166,6702,Voksen,K
+115,Ganbold Johansen,18,2,1959,Færgevej,17,5532,Voksen,M
+116,Freja Christensen,12,2,1957,Klaruphave,90,1541,Voksen,K
+117,Altan Christensen,20,7,1970,Flækken,71,4862,Voksen,K
+118,Laura Jørgensen,20,4,1957,Ole Lund Kirkegaards Allé,40,9943,Voksen,M
+119,Ganzorig Christensen,18,1,1988,Hedvig Billes Top,287,7439,Voksen,K
+120,Esther Petersen,4,1,1986,Humle Hauge,92,5294,Voksen,K
+121,Monkhbat Pedersen,18,10,1968,Nørrestrands Alle,276,7340,Voksen,M
+122,Jette Jørgensen,28,3,1975,Marie Haves Vænge,77,7904,Voksen,K
+123,Henrik Poulsen,17,7,1975,Ole Lund Kirkegaards Allé,172,9237,Voksen,K
+124,Ellen Larsen,14,2,1990,Klaruphave,175,7786,Voksen,M
+125,Chaghatai Larsen,22,10,2001,Dorthe Lottrups Lund,219,5604,Voksen,K
+126,Luna Møller,13,0,1993,Ole Lund Kirkegaards Allé,238,6421,Voksen,K
+127,Arban Johansen,6,0,1957,Dorthe Lottrups Lund,230,3176,Voksen,M
+128,Ella Sørensen,15,2,1962,Humle Hauge,92,2032,Voksen,K
+129,Morten Hansen,28,6,1981,Ellipsehaven,75,4164,Voksen,K
+130,Hanne Larsen,8,3,1986,Humle Hauge,273,3862,Voksen,M
+131,Altan Hansen,28,5,1984,Flækken,35,9721,Voksen,K
+132,Maria Nielsen,26,2,1959,Degns Hauge,322,7961,Voksen,K
+133,Narantsetseg Møller,6,6,1983,Søgård Alle,151,5166,Voksen,M
+134,Josefine Møller,22,11,1958,Humle Hauge,250,1965,Voksen,K
+135,Martin Madsen,18,1,1997,Humle Hauge,95,3455,Voksen,K
+136,Luna Thomsen,7,1,1984,Humle Hauge,247,3388,Voksen,M
+137,Ole Madsen,6,7,1987,Seglen,114,7415,Voksen,K
+138,Liv Jørgensen,7,5,1967,Degns Hauge,142,9919,Voksen,K
+139,Monkhbat Hansen,8,3,1958,Ole Lund Kirkegaards Allé,90,3225,Voksen,M
+140,Lærke Kristensen,15,6,1975,Nørrestrands Alle,177,1216,Voksen,K
+141,Anders Christiansen,8,11,1969,Færgevej,8,7651,Voksen,K
+142,Vigga Sørensen,9,2,1984,Flovt Bygade,179,5708,Voksen,M
+143,Ganbaatar Sørensen,5,1,1984,Hedvig Billes Top,273,2542,Voksen,K
+144,Mathilde Nielsen,1,3,1975,Degns Hauge,142,2105,Voksen,K
+145,Peter Petersen,7,5,1975,Nørrestrands Alle,174,4445,Voksen,K
+146,Agnes Nielsen,5,10,1986,Hedvig Billes Top,98,3339,Voksen,M
+147,Batsaikhan Christensen,27,2,1976,Ole Lund Kirkegaards Allé,278,8967,Voksen,K
+148,Saga Pedersen,25,5,1984,Flovt Bygade,57,4438,Voksen,K
+149,Ganzorig Pedersen,3,2,1997,Hedvig Billes Top,134,3847,Voksen,M
+150,Sofie Petersen,6,2,1996,Humle Hauge,194,8260,Voksen,K
+151,Monkh Erdene Andersen,19,6,1987,Seglen,289,3687,Voksen,K
+152,Rosa Hansen,22,9,1979,Færgevej,178,3292,Voksen,M
+153,Monkhbat Jensen,8,9,1981,Søgård Alle,185,3415,Voksen,K
+154,Bente Møller,6,7,1986,Flækken,4,4164,Voksen,K
+155,Altansarnai Møller,14,5,1991,Færgevej,182,4620,Voksen,M
+156,Louise Hansen,12,7,1987,Ole Lund Kirkegaards Allé,176,1938,Voksen,K
+157,Batsaikhan Jørgensen,15,11,1980,Karine Krumpen,267,7891,Voksen,K
+158,Astrid Sørensen,15,8,1998,Ellipsehaven,22,8626,Voksen,M
+159,Thomas Pedersen,1,10,1980,Flovt Bygade,80,2669,Voksen,K
+160,Emilie Andersen,6,2,1988,Færgevej,139,2482,Voksen,K
+161,Rasmus Christensen,0,9,1992,Bellahøjvænget,61,4084,Voksen,M
+162,Josefine Pedersen,11,9,1978,Klaruphave,246,3535,Voksen,K
+163,Ganbaatar Christensen,7,10,1975,Karine Krumpen,147,6315,Voksen,K
+164,Ellen Jørgensen,22,9,1980,Mediebyen,134,4883,Voksen,M
+165,Hans Jørgensen,3,5,1999,Seglen,288,9946,Voksen,K
+166,Karen Pedersen,25,2,1981,Marie Haves Vænge,127,7239,Voksen,K
+167,Bolormaa Pedersen,2,7,1988,Marie Haves Vænge,211,1825,Voksen,M
+168,Susanne Poulsen,29,7,1975,Mediebyen,201,8229,Voksen,K
+169,Monkhbat Poulsen,7,2,1993,Bellahøjvænget,327,8923,Voksen,K
+170,Maja Olsen,21,1,1983,Ole Lund Kirkegaards Allé,315,4947,Voksen,M
+171,Christian Olsen,24,2,1982,Klaruphave,168,5712,Voksen,K
+172,Rosa Kristensen,5,3,1999,Nørrestrands Alle,90,5262,Voksen,K
+173,Rasmus Petersen,11,4,1998,Ole Lund Kirkegaards Allé,26,3530,Voksen,M
+174,Marie Christensen,28,8,1996,Mediebyen,41,7378,Voksen,K
+175,Ganbaatar Jensen,10,2,1995,Humle Hauge,121,2456,Voksen,K
+176,Helle Nielsen,19,8,1981,Mediebyen,105,6152,Voksen,M
+177,Batu Møller,7,9,1990,Flækken,228,8193,Voksen,K
+178,Sofie Hansen,8,7,1998,Seglen,62,3659,Voksen,K
+179,Thomas Christiansen,25,10,1981,Ellipsehaven,266,1453,Voksen,M
+180,Tina Nielsen,6,1,1988,Dorthe Lottrups Lund,330,1520,Voksen,K
+181,Mads Jensen,12,7,1977,Peter Panums Vej,305,8338,Voksen,K
+182,Frida Sørensen,26,10,1980,Seglen,214,6475,Voksen,M
+183,Jesper Petersen,20,5,1982,Peter Panums Vej,180,6238,Voksen,K
+184,Asta Larsen,6,6,1994,Peter Panums Vej,278,8715,Voksen,K
+185,Chaghatai Sørensen,1,4,1980,Karine Krumpen,224,2724,Voksen,M
+186,Naja Nielsen,17,9,1992,Klaruphave,132,9469,Voksen,K
+187,Altansarnai Madsen,11,7,1998,Humle Hauge,244,3943,Voksen,K
+188,Tina Pedersen,23,1,1990,Søgård Alle,336,3339,Voksen,M
+189,Altan Madsen,7,6,1984,Dorthe Lottrups Lund,303,3030,Voksen,K
+190,Luna Petersen,5,0,1976,Nørrestrands Alle,57,9892,Voksen,K
+191,Ganbaatar Pedersen,9,3,1975,Ellipsehaven,77,2006,Voksen,M
+192,Tina Pedersen,5,7,1984,Klaruphave,220,6014,Voksen,K
+193,Jørgen Olsen,18,9,1997,Karine Krumpen,29,8694,Voksen,K
+194,Charlotte Kristensen,25,4,1975,Ole Lund Kirkegaards Allé,12,6501,Voksen,M
+195,Enkhtuya Rasmussen,29,7,1987,Degns Hauge,127,4135,Voksen,K
+196,Laura Johansen,17,8,1997,Mediebyen,249,9418,Voksen,K
+197,Oyuunchimeg  Olsen,28,9,1991,Degns Hauge,38,2002,Voksen,M
+198,Anne Pedersen,6,2,1978,Kirsten Munks Dal,96,8707,Voksen,K
+199,Peter Sørensen,6,8,1986,Ellipsehaven,281,6524,Voksen,K
+200,Karen Larsen,0,0,1979,Ole Lund Kirkegaards Allé,311,6550,Voksen,M
+201,Bat Erdene Poulsen,9,1,1977,Mediebyen,76,8417,Voksen,K
+202,Sofie Larsen,6,7,1993,Bellahøjvænget,177,2981,Voksen,K
+203,Anders Jensen,2,6,1998,Ole Lund Kirkegaards Allé,256,5309,Voksen,M
+204,Mille Johansen,13,4,1989,Hedvig Billes Top,282,3260,Voksen,K
+205,Hans Nielsen,5,3,1982,Mediebyen,126,6176,Voksen,K
+206,Laura Pedersen,16,10,1976,Søgård Alle,11,2494,Voksen,M
+207,Batuhan Rasmussen,12,2,1985,Ole Lund Kirkegaards Allé,88,6282,Voksen,K
+208,Kirsten Larsen,11,7,1980,Klaruphave,194,6017,Voksen,K
+209,Batsaikhan Petersen,2,3,1984,Kirsten Munks Dal,249,9118,Voksen,M
+210,Maja Andersen,3,3,1996,Nørrestrands Alle,134,9022,Voksen,K
+211,Hans Olsen,9,7,1976,Søgård Alle,15,9852,Voksen,K
+212,Asta Pedersen,12,1,1983,Degns Hauge,133,2944,Voksen,M
+213,Hans Olsen,7,5,1977,Marie Haves Vænge,169,7777,Voksen,K
+214,Karen Thomsen,0,7,1999,Mediebyen,101,4099,Voksen,K
+215,Ganbaatar Olsen,5,4,1994,Marie Haves Vænge,109,7263,Voksen,M
+216,Ellen Sørensen,9,7,1984,Færgevej,243,1081,Voksen,K
+217,Bataar Andersen,21,9,1998,Flovt Bygade,317,2717,Voksen,K
+218,Helle Jørgensen,13,7,1985,Peter Panums Vej,230,5406,Voksen,M
+219,Christian Johansen,22,7,1975,Humle Hauge,327,6044,Voksen,K
+220,Emily Nielsen,4,1,1998,Ellipsehaven,107,2916,Voksen,K
+221,Jørgen Olsen,14,0,1999,Marie Haves Vænge,214,4116,Voksen,M
+222,Victoria Kristensen,5,5,1985,Seglen,15,8430,Voksen,K
+223,Ganzorig Christensen,13,3,1980,Degns Hauge,316,3733,Voksen,K
+224,Caroline Rasmussen,20,11,1978,Ellipsehaven,290,3159,Voksen,M
+225,Thomas Nielsen,4,0,1989,Nørrestrands Alle,30,6607,Voksen,K
+226,Sofie Hansen,29,2,1978,Hedvig Billes Top,38,2360,Voksen,K
+227,Altantsetseg Thomsen,3,11,1980,Klaruphave,322,8832,Voksen,M
+228,Anna Thomsen,6,3,1979,Kirsten Munks Dal,184,5763,Voksen,K
+229,Hans Rasmussen,15,5,1994,Karine Krumpen,168,2367,Voksen,K
+230,Lene Nielsen,17,5,1977,Færgevej,213,6234,Voksen,M
+231,Altantsetseg Jørgensen,26,3,1977,Degns Hauge,136,1021,Voksen,K
+232,Mille Pedersen,10,2,1981,Karine Krumpen,61,7202,Voksen,K
+233,Arban Christiansen,22,10,1985,Ole Lund Kirkegaards Allé,247,5443,Voksen,M
+234,Aya Christensen,17,4,1984,Søgård Alle,160,8341,Voksen,K
+235,Anders Møller,7,5,1978,Humle Hauge,175,1617,Voksen,K
+236,Victoria Hansen,10,7,1989,Søgård Alle,119,8996,Voksen,M
+237,Ole Kristensen,16,5,1976,Kirsten Munks Dal,236,6353,Voksen,K
+238,Rosa Olsen,28,1,1991,Nørrestrands Alle,11,6874,Voksen,K
+239,Chime Petersen,12,0,1978,Mediebyen,259,2294,Voksen,M
+240,Emilie Jensen,14,9,1992,Klaruphave,304,5481,Voksen,K
+241,Lars Andersen,19,1,1991,Ellipsehaven,288,9913,Voksen,K
+242,Mette Jensen,12,11,1994,Marie Haves Vænge,275,7820,Voksen,M
+243,Bat Erdene Petersen,4,10,1999,Ole Lund Kirkegaards Allé,177,4034,Voksen,K
+14,Olivia Thomsen,17,1,2018,Degns Hauge,262,6381,Barn,K
+15,Per Rasmussen,27,1,2017,Klaruphave,320,7039,Barn,K
+16,Lene Sørensen,22,4,2019,Karine Krumpen,252,9806,Barn,M
+17,Chaghatai Thomsen,23,6,2016,Dorthe Lottrups Lund,23,4490,Barn,K
+18,Freja Pedersen,25,0,2017,Klaruphave,241,2744,Barn,K
+19,Batjargal Kristensen,27,0,2017,Bellahøjvænget,98,4282,Barn,M
+20,Lene Christiansen,25,9,2019,Humle Hauge,6,9289,Barn,K
+21,Ganzorig Rasmussen,25,7,2017,Dorthe Lottrups Lund,41,7308,Barn,K
+22,Vigga Andersen,21,8,2016,Seglen,147,1133,Barn,M
+23,Batjargal Olsen,20,10,2017,Karine Krumpen,241,9501,Barn,K
+24,Caroline Andersen,4,8,2016,Færgevej,175,3627,Barn,K
+25,Lars Christiansen,21,3,2017,Dorthe Lottrups Lund,267,4835,Barn,M
+26,Andrea Nielsen,11,10,2017,Nørrestrands Alle,128,5864,Barn,K
+27,Batsaikhan Christensen,21,2,2017,Nørrestrands Alle,92,1595,Barn,K
+28,Jette Nielsen,5,3,2016,Karine Krumpen,70,3257,Barn,M
+29,Bolormaa Sørensen,8,3,2016,Peter Panums Vej,304,2392,Barn,K
+30,Vilma Rasmussen,9,9,2018,Nørrestrands Alle,40,6114,Barn,K
+31,Bat Erdene Hansen,7,4,2019,Seglen,128,6440,Barn,M
+32,Laura Madsen,12,3,2017,Karine Krumpen,283,9737,Barn,K
+33,Rasmus Sørensen,12,2,2017,Ole Lund Kirkegaards Allé,250,2576,Barn,K
+34,Lene Olsen,16,9,2019,Hedvig Billes Top,222,2503,Barn,M
+35,Batsaikhan Christiansen,15,11,2019,Marie Haves Vænge,26,2545,Barn,K
+36,Agnes Hansen,20,10,2019,Degns Hauge,97,7460,Barn,K
+37,Altansarnai Poulsen,6,5,2019,Humle Hauge,181,2032,Barn,M
+38,Marianne Christiansen,9,5,2019,Degns Hauge,323,8930,Barn,K
+39,Monkh Erdene Nielsen,14,2,2019,Dorthe Lottrups Lund,237,8948,Barn,K
+40,Vigga Jørgensen,21,4,2016,Ellipsehaven,103,2609,Barn,M
+41,Henrik Poulsen,27,2,2019,Peter Panums Vej,59,8477,Barn,K
+42,Liva Rasmussen,17,6,2019,Søgård Alle,247,2669,Barn,K
+43,Altantsetseg Jensen,17,4,2018,Klaruphave,230,4368,Barn,M
+44,Lene Nielsen,3,0,2016,Marie Haves Vænge,123,1375,Barn,K
+45,Altantsetseg Jensen,19,1,2017,Hedvig Billes Top,61,5981,Barn,K
+46,Lea Jørgensen,10,6,2017,Nørrestrands Alle,174,2694,Barn,M
+47,Søren Thomsen,21,2,2016,Mediebyen,231,1600,Barn,K
+48,Charlotte Johansen,11,5,2018,Karine Krumpen,289,8414,Barn,K
+49,Lars Nielsen,22,5,2019,Flækken,323,3482,Barn,M
+50,Sara Nielsen,17,4,2018,Peter Panums Vej,313,6272,Barn,K
+51,Peter Møller,21,10,2016,Mediebyen,321,7170,Barn,K
+52,Karla Thomsen,14,0,2017,Ellipsehaven,164,9567,Barn,M
+53,Ganzorig Sørensen,3,6,2016,Hedvig Billes Top,69,4563,Barn,K
+54,Lene Nielsen,0,1,2018,Nørrestrands Alle,59,8802,Barn,K
+55,Per Hansen,24,8,2016,Søgård Alle,300,1231,Barn,M
+56,Caroline Sørensen,9,4,2016,Klaruphave,330,1811,Barn,K
+57,Ganbold Christensen,29,2,2019,Degns Hauge,260,6484,Barn,K
+58,Ellie Madsen,21,7,2019,Ole Lund Kirkegaards Allé,322,7898,Barn,M
+59,Ganzorig Poulsen,14,7,2017,Hedvig Billes Top,320,9709,Barn,K
+60,Sofia Poulsen,18,7,2019,Nørrestrands Alle,313,7479,Barn,K
+61,Chime Jensen,27,9,2018,Færgevej,162,1446,Barn,M
+62,Anna Christiansen,5,2,2017,Mediebyen,114,9726,Barn,K
+63,Chenghiz Andersen,15,3,2018,Ellipsehaven,235,7715,Barn,K
+1694,Peter Tåsinge,5,3,1991,Rævesnuden,4,2300,Voksen,M
+1695,Bo,23,5,2017,Rævesnuden 4,4,2300,Venteliste,M
+1724,Tully Nelson,29,4,1987,Frekeriksvænge,23,3400,Voksen,K
+1725,Bregne Fulsom,22,1,2019,Tuschvej,2,2600,Venteliste,K
